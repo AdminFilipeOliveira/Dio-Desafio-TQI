@@ -1,6 +1,8 @@
 /*
  * Desafio
-Astrônomos e astrofísicos utilizam diferentes unidades de tempo para medir o tempo em outros planetas. Neste desafio de código, você deverá criar um programa que solicite a idade de uma pessoa em anos terrestres e calcule a idade equivalente em outros planetas. Para isso, considere as seguintes informações:
+Astrônomos e astrofísicos utilizam diferentes unidades de tempo para medir o tempo em outros planetas. 
+Neste desafio de código, você deverá criar um programa que solicite a idade de uma pessoa em anos terrestres
+ e calcule a idade equivalente em outros planetas. Para isso, considere as seguintes informações:
 
 Marte: 1 ano marciano dura aproximadamente 1,88 anos terrestres;
 Venus: 1 ano venusiano dura aproximadamente 0,62 anos terrestres;
@@ -12,10 +14,13 @@ O usuário deve fornecer sua idade em anos terrestres e o planeta para o qual de
 
 Saída
 Exibição da idade equivalente em anos planetários de acordo com o planeta escolhido pelo usuário.
-A saída deve ser apresentada em uma mensagem na tela, informando a idade equivalente em anos planetários para o planeta escolhido, com duas casas decimais após a vírgula. Se o planeta informado pelo usuário não for um dos três planetas mencionados acima, a mensagem "Planeta invalido." deve ser exibida.
+A saída deve ser apresentada em uma mensagem na tela, informando a idade equivalente em anos planetários para o planeta escolhido, 
+  com duas casas decimais após a vírgula. Se o planeta informado pelo usuário não for um dos três planetas mencionados acima,
+   a mensagem "Planeta invalido." deve ser exibida.
 
 Exemplos
-Para ajudar a testar seu programa, a tabela abaixo apresenta alguns exemplos de dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+Para ajudar a testar seu programa, a tabela abaixo apresenta alguns exemplos de dados de entrada e suas respectivas saídas esperadas. 
+Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 Entrada	Saída
 30
