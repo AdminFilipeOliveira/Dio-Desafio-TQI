@@ -1,6 +1,8 @@
 /*
  * Desafio
-Neste desafio, você deverá ajudar o gerente de uma loja geek a gerenciar o desempenho de seus funcionários em um determinado período. O gerente pode inserir a média das avaliações de desempenho dos funcionários e o programa irá classificar cada um deles em "APR" (bom), "MED" (médio) ou "REP" (ruim), com base em critérios predefinidos.
+Neste desafio, você deverá ajudar o gerente de uma loja geek a gerenciar o desempenho de seus funcionários em um determinado período. 
+O gerente pode inserir a média das avaliações de desempenho dos funcionários e o programa irá classificar cada um deles em "APR" (bom), "MED" (médio) ou "REP" (ruim), 
+com base em critérios predefinidos.
 
 Entrada
 O programa solicitará ao usuário que insira a média das avaliações de desempenho dos funcionários em um determinado período.
@@ -12,7 +14,8 @@ Se a média da avaliação for menor que 5, o funcionário estará reprovado em 
 Se a média da avaliação for menor que 7, mas maior ou igual a 5, o funcionário terá sua avaliação como "MED";
 Se a média for maior ou igual a 7, o funcionário está aprovado no teste de desempenho e será classificado como "APR".
 Exemplos
-A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. 
+Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 Entrada	Saída
 3	REPROVADO
